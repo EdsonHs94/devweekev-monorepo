@@ -1,12 +1,12 @@
 {
   "name": "@devweekev/sumar",
-  "version": "1.0.3",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "https://github.com/EdsonHs94/devmeekev",
+  "repository": "https://github.com/EdsonHs94/devweekev-monorepo",
   "keywords": [],
   "author": "Edson Vega",
   "license": "ISC"
